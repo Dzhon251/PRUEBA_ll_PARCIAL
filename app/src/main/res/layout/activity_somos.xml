@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SomosActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="48dp"
+        android:src="@drawable/espe_logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="353dp"
+        android:layout_height="167dp"
+        android:layout_marginTop="60dp"
+        android:text="Al 2025, ser reconocidos a nivel nacional e internacional como una institución de educación superior de calidad en docencia, investigación y vinculación bajo el paradigma de una universidad inteligente, articulando la transferencia de ciencia y tecnología, a través de procesos de I+D+i; y, convirtiéndonos en un referente de pensamiento en seguridad y defensa, al servicio del país y Fuerzas Armadas."
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/somos" />
+
+    <TextView
+        android:id="@+id/somos"
+        android:layout_width="234dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="56dp"
+        android:text="QUIENES SOMOS"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/btn_return"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginBottom="80dp"
+        android:text="Inicio"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
