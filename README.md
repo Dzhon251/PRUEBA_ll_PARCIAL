@@ -13,14 +13,11 @@ Perfil GitHub: Dzhon251 (github.com)
 Construcción de un aplocativo en Android Studio en java 
 
 ![image](https://github.com/Dzhon251/PRUEBA_ll_PARCIAL/assets/133244354/d74d490f-0d0d-49d3-8f83-0bf6232b61ff)
-
 ![image](https://github.com/Dzhon251/PRUEBA_ll_PARCIAL/assets/133244354/1f93e998-0d58-4807-ba60-b1470bffbf13)
 
 ![image](https://github.com/Dzhon251/PRUEBA_ll_PARCIAL/assets/133244354/15727114-9a36-4c8f-83d0-162886a29b53)
-
 ![image](https://github.com/Dzhon251/PRUEBA_ll_PARCIAL/assets/133244354/a86c2a75-69ec-459e-ba35-6f47ba311d58)
 
-![image](https://github.com/Dzhon251/PRUEBA_ll_PARCIAL/assets/133244354/9e2d6f6e-fd28-4d67-8a73-54c16e2e4d75)
 
 
 CÓDIGO DEL PROYECTO
